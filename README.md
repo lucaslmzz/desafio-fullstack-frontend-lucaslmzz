@@ -8,4 +8,4 @@ $ npm install
 
 Para a execução do projeto é necessário executar o comando:
 
-$ npm run dev
+$ npm start
